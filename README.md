@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isdavehill
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in the JAMStack
 - 🌱 I’m currently learning Reactjs
 - 💞️ 
