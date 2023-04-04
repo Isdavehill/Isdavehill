@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dave
-- 👀 I’m interested in the JAMStack
-- 🌱 I’m currently learning Reactjs
-- 💞️ 
-- 📫 How to reach me on twitter @isdavehill
+- 
+- 🌱 Always learning
+- 💞️ JAMStack enthusiast
 
 <!---
 Isdavehill/Isdavehill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
