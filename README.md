@@ -6,7 +6,7 @@ I am passionate about accessibility, using my knowledge and a combination of man
 ## Tech & Social Interests
 
 - Digital equality
-- 
+- Inclusive experiences
 
 ## Experience with
 ### core skills
