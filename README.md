@@ -1,7 +1,7 @@
 ![Hi, i'm dave](/images/dave-banner.png)
 
 ## Accessibility Advocate
-I am passionate about accessibility, using my knowledge and a combination of manual testing and automated tools to ensure an inclusive experience for users.
+I am passionate about accessibility, using my knowledge and a combination of manual testing and automated tools to ensure an inclusive user experience.
 
 ## Tech & Social Interests
 
@@ -22,6 +22,7 @@ I am passionate about accessibility, using my knowledge and a combination of man
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 #### Forever loved, but no longer my primary choice of <abbr title="Static Site Generator">SSG</abbr>
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
@@ -30,6 +31,7 @@ I am passionate about accessibility, using my knowledge and a combination of man
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
 ### Loves to use
 
