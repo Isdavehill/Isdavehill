@@ -62,9 +62,6 @@ macOS	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-## 🍷 Wine Enthusiast *
-## 🍺 Real ale and Craft ale Enthusiast *
 
-### * Advocate of appropriate and safe drinking
-[Drink Aware](https://www.drinkaware.co.uk/)
