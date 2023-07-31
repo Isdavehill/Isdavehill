@@ -1,7 +1,7 @@
 # Hi! I'm Dave 
 
 ## Front-end Developer
-I've been designing and developing web applications for over 21 years. My core skills and knowledge consist of project requirements gathering, designing user-centred solutions and development using HTML, CSS and JavaScript.  In recent years, I have also acquired experience of React, Svelte and Vue.
+I've been designing and developing web applications for over 22years. My core skills and knowledge consist of project requirements gathering, designing user-centred solutions and development using HTML, CSS and JavaScript.  In recent years, I have also acquired experience of React, Svelte and Vue.
 
 I firmly believe in the power of collaboration, and I enjoy working with others to develop excellent solutions. I’m particularly keen to work on impactful projects.
 
