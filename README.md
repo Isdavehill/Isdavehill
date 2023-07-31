@@ -7,6 +7,7 @@ I firmly believe in the power of collaboration, and I enjoy working with others 
 
 Continuous professional development is essential to me, and I continue to learn and grow. 
 
+
 ## Accessibility Advocate
 I am passionate about accessibility, using my knowledge and a combination of manual testing and automated tools to ensure an inclusive user experience.
 
