@@ -1,12 +1,20 @@
-![Hi, i'm dave](/images/dave-banner.png)
+# Hi! I'm Dave 
+
+## Front-end Developer
+I've been designing and developing web applications for over 21 years. My core skills and knowledge consist of project requirements gathering, designing user-centred solutions and development using HTML, CSS and JavaScript.  In recent years, I have also acquired experience of React, Svelte and Vue.
+
+I firmly believe in the power of collaboration, and I enjoy working with others to develop excellent solutions. I’m particularly keen to work on impactful projects.
+
+Continuous professional development is essential to me, and I continue to learn and grow. 
 
 ## Accessibility Advocate
 I am passionate about accessibility, using my knowledge and a combination of manual testing and automated tools to ensure an inclusive user experience.
 
-## Tech & Social Interests
+## Social Impact Interests
 
 - Digital equality
 - Inclusive Digital experiences
+- Tech for Good
 
 ## Experience with
 ### core skills
@@ -41,21 +49,12 @@ I am passionate about accessibility, using my knowledge and a combination of man
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-I've been designing and developing web applications, for over 21 years. My core skills and knowledge consist of project requirements gathering, designing user-centred solutions and development using HTML, CSS and JavaScript.  In recent years, I have also acquired experience of React, Svelte and Vue.
-
-Eaerly in my career  gained experience of using ColdFusion, ASP.Net (c#) and SQL, but now prefer a Front-end Stack.
-
-
- I firmly believe in the power of collaboration, and I enjoy working with others to develop excellent solutions. I’m particularly keen to work on impactful projects.
-
-Continuous professional development is important to me, and I continue to learn and grow. 
-
 ##  Uses
 macOS	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### and
-**WSL** with ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) via **WSL**
 
 ## For fun
 
