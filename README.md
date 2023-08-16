@@ -64,15 +64,18 @@ Passionate about leveraging technology for positive change, my interests lie in:
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+## My Tech Stack and Playground 🖥️
 
-##  Uses
-macOS	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- macOS 🍏
 
-### and
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) via **WSL**
+- Windows (and Windows Subsystem for Linux) 🪟
 
-## For fun
+- Ubuntu (via WSL) 🐧
+
+## Beyond Code 🎮🍿🎵
+
+Switch Enthusiast | Netflix Binge-Watcher | Spotify Addict | YouTube Explorer
+
 
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
