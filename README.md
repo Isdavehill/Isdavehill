@@ -1,21 +1,33 @@
-# Hi! I'm Dave 
 
-## Front-end Developer
-I've been designing and developing web applications for over 22 years. My core skills and knowledge consist of project requirements gathering, designing user-centred solutions and development using HTML, CSS and JavaScript.  In recent years, I have also acquired experience of React, Svelte and Vue.
+# Hi there! 👋 I'm Dave, a Front-end Developer with a passion for creating exceptional web experiences.
 
-I firmly believe in the power of collaboration, and I enjoy working with others to develop excellent solutions. I’m particularly keen to work on impactful projects.
+🌐 Over 22 years of crafting web applications
+🎯 Specialized in requirements gathering, user-centric design, and HTML/CSS/JS development
+💼 Experienced in React, Svelte, and Vue frameworks
+🤝 Believer in collaboration for building outstanding solutions
+🚀 Eager to contribute to impactful projects
 
-Continuous professional development is essential to me, and I continue to learn and grow. 
+🌱 Always growing and learning in the ever-evolving tech world.
 
 
-## Accessibility Advocate
-I am passionate about accessibility, using my knowledge and a combination of manual testing and automated tools to ensure an inclusive user experience.
+## Accessibility Champion 
 
-## Social Impact Interests
+As an advocate for accessibility, I'm committed to ensuring an inclusive digital world. Leveraging my expertise, I combine manual testing and automated tools to guarantee an accessible user experience.
 
-- Digital equality
-- Inclusive Digital experiences
-- Tech for Good
+
+## Accessibility Champion 🌈
+
+As an advocate for accessibility, I'm committed to ensuring an inclusive digital world. Leveraging my expertise, I combine manual testing and automated tools to guarantee an accessible user experience.
+
+## Making a Difference 🌍
+
+Passionate about leveraging technology for positive change, my interests lie in:
+
+- Bridging digital equality gaps
+- Crafting inclusive digital experiences
+- Utilizing tech for social good
+
+
 
 ## Experience with
 ### core skills
