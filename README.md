@@ -1,5 +1,6 @@
 
-# Hi there! 👋 I'm Dave, a Front-end Developer with a passion for creating exceptional web experiences.
+# Hi there! 👋 
+## I'm Dave, a Front-end Developer with a passion for creating exceptional web experiences.
 
 🌐 Over 22 years of crafting web applications
 
