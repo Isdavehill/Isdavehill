@@ -2,9 +2,13 @@
 # Hi there! 👋 I'm Dave, a Front-end Developer with a passion for creating exceptional web experiences.
 
 🌐 Over 22 years of crafting web applications
+
 🎯 Specialized in requirements gathering, user-centric design, and HTML/CSS/JS development
+
 💼 Experienced in React, Svelte, and Vue frameworks
+
 🤝 Believer in collaboration for building outstanding solutions
+
 🚀 Eager to contribute to impactful projects
 
 🌱 Always growing and learning in the ever-evolving tech world.
@@ -24,7 +28,9 @@ As an advocate for accessibility, I'm committed to ensuring an inclusive digital
 Passionate about leveraging technology for positive change, my interests lie in:
 
 - Bridging digital equality gaps
+
 - Crafting inclusive digital experiences
+
 - Utilizing tech for social good
 
 
