@@ -19,10 +19,6 @@
 As an advocate for accessibility, I'm committed to ensuring an inclusive digital world. Leveraging my expertise, I combine manual testing and automated tools to guarantee an accessible user experience.
 
 
-## Accessibility Champion 🌈
-
-As an advocate for accessibility, I'm committed to ensuring an inclusive digital world. Leveraging my expertise, I combine manual testing and automated tools to guarantee an accessible user experience.
-
 ## Making a Difference 🌍
 
 Passionate about leveraging technology for positive change, my interests lie in:
