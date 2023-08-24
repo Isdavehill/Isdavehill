@@ -6,18 +6,16 @@
 
 🎯 Specialized in requirements gathering, user-centric design, and HTML/CSS/JS development
 
-💼 Experienced in React, Svelte, and Vue frameworks
-
 🤝 Believer in collaboration for building outstanding solutions
 
-🚀 Eager to contribute to impactful projects
+🚀 Eager to contribute to projects with social impact
 
-🌱 Always growing and learning in the ever-evolving tech world.
+🌱 Always learning in the ever-evolving tech world.
 
 
 ## Accessibility Champion 
 
-As an advocate for accessibility, I'm committed to ensuring an inclusive digital world. Leveraging my expertise, I combine manual testing and automated tools to guarantee an accessible user experience.
+As an advocate for accessibility, I'm committed to ensuring an inclusive digital world. 
 
 
 ## Making a Difference 🌍
