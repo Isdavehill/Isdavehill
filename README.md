@@ -1,8 +1,8 @@
 
 # Hi there! 👋 
-## I'm Dave, a Front-end Developer with a passion for creating exceptional web experiences.
+## I'm Dave, a UI Developer, crafting User Interfaces that delight and empower
 
-🌐 Over 22 years of crafting web applications
+🌐 Over 23 years of crafting web applications
 
 🎯 Specialized in requirements gathering, user-centric design, and HTML/CSS/JS development
 
