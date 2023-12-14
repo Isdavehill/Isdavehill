@@ -48,7 +48,7 @@ Hugo (Former SSG Favorite)
 
 Currently, I'm venturing into:
 
-TypeScript | Vue.js | Nuxt.js
+TypeScript | Vue.js | Nuxt.js | Vue.js | TypeScript |
 
 
 ## Preferred Tools 🚀
