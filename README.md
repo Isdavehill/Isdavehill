@@ -1,6 +1,6 @@
 
 # Hi there! 👋 
-## I'm Dave, a UI Developer, crafting User Interfaces that delight and empower
+## I'm Dave, a Software Developer (Front-end).
 
 🌐 Over 23 years of crafting web applications
 
