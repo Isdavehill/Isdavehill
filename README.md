@@ -13,9 +13,9 @@
 🌱 Always learning in the ever-evolving tech world.
 
 
-## Accessibility Champion 
+## Accessibility Advocate 
 
-As an advocate for accessibility, I'm committed to ensuring an inclusive digital world. 
+I'm committed to ensuring an inclusive digital world. 
 
 
 ## Making a Difference 🌍
@@ -44,7 +44,7 @@ Node.js | React | Next.js | Svelte | Markdown | Prisma
 Hugo (Former SSG Favorite)
 
 
-## Always Expanding 📚
+## Always Improving 📚
 
 Currently, I'm venturing into:
 
@@ -53,8 +53,5 @@ TypeScript | Vue.js | Nuxt.js | Vue.js | TypeScript |
 
 ## Preferred Tools 🚀
 
-Visual Studio Code | GitHub | CodePen | Netlify
+Visual Studio Code | GitHub | CodePen | Vercel
 
-## Beyond Code 🎮🍿🎵
-
-Switch Enthusiast | Netflix Binge-Watcher | Spotify Addict | YouTube Explorer
